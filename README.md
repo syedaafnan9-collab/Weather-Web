@@ -44,3 +44,7 @@ This project was built to practice React development, component organization, an
 - Add live weather data using a weather API.
 - Add city search functionality.
 - Display temperature, humidity, wind speed, and weather conditions.
+
+## Live Demo
+
+🔗 [View Live Website](https://weather-w-eb.netlify.app)
